@@ -1,13 +1,6 @@
-## Code Challenge 16 - Query Your Favorite API
+## Word Notifier
 
-Instructions [here](http://pybit.es/codechallenge16.html).
-
-Previous challenges and About [here](http://pybit.es/pages/challenges.html).
-
-
-**Solution**
-
-Tweaked around with Wordlink API in order to get a random word
+Tweaked around with Wordnik API in order to get a random word
 per day. This would help in learning a new word each day. Which makes
 it 30-31 words per month. 
 
